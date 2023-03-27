@@ -1,0 +1,1 @@
+# promotion-script-test
